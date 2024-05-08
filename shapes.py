@@ -11,6 +11,8 @@ def calculate_rectangle_area(w, h):
     area = w * h
     return area
 
+def cacl_tri_area(h,b):
+    b * h / b
 
 if __name__ == "__main__":
     main()
